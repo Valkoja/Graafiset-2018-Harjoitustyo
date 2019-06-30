@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6441A4</color>
+    <color name="colorPrimaryDark">#502d90</color>
+    <color name="colorAccent">#FFFFFF</color>
+
+    <color name="actionbarBackground">#6441A4</color>
+    <color name="actionbarText">#FFFFFF</color>
+
+    <color name="buttonGreen">#c08eff88</color>
+    <color name="buttonRed">#c0ff8e88</color>
+
+    <color name="backgroundGreen">#8060fc60</color>
+    <color name="backgroundRed">#80ff6060</color>
+    <color name="backgroundGray">#efefef</color>
+    <color name="backgroundWhite">#ffffff</color>
+</resources>
